@@ -38,4 +38,4 @@ If you copied the zip file successfully to your S3 bucket, open de S3 management
 Head over to the Lambda console, in the sidebar select **Layers** and proceed by clicking `Create layer`. Complete the required fields as illustrated in the screenshot below and click `Create` to execute.
 
 
-![screenshot](https://raw.githubusercontent.com/nrollr/Lambda-Layers/screenshot/screenshot%402px.png)
+![screenshot](https://raw.githubusercontent.com/nrollr/Lambda-Layers/screenshot/screenshot.png)
